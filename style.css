@@ -1,13 +1,11 @@
-/* Consigne 1 : Donner à la boîte une largeur de 200 px */
+.boite {
+    box-sizing: border-box;
+    width: 200px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 30px;
+    border-radius: 10%;
+    box-shadow: 5px 0px 10px #8040FF;
+    border-style: double;
+}
 
-/* Consigne 2 : Ajouter un espace intérieur de 20 px */
-
-/* Consigne 3 : Ajouter une bordure de 5 px, noire et pleine */
-
-/* Consigne 4 : Ajouter un espace extérieur de 30 px */
-
-/* Consigne 5 : Passer la boîte en border-box et observer la différence */
-
-/* Consigne 6 : Arrondir les coins de la boîte */
-
-/* Consigne 7 : Ajouter une ombre portée subtile */
